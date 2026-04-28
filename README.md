@@ -1,6 +1,7 @@
-# Next.js Agent Skills
+# OpenNext Agent Skills
 
-Agent skills for common Next.js workflows.
+Agent skills for common OpenNext.js workflows.
+(Cloudflare adapter)
 
 ## Essential Skills
 
